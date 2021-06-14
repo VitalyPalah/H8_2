@@ -1,0 +1,162 @@
+.blog_container{
+    max-width: 1600px;
+    background-color: #e2e7ec;
+}
+
+.blog_concept_cars{
+    background-image: url(../assets/images/main_blog_concept_cars.png);
+    margin-left: 240px;
+    margin-top: 90px;
+    width: 740px;
+    height: 540px;
+    box-shadow: -58px -100px 8px 55px rgba(11, 12, 17, 0.32) inset;
+}
+
+.concept_cars_date{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 50px;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.concept_cars_header{
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 50px;
+    width: 440px;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.blog_guide_article{
+    background-image: url(../assets/images/main_blog_guide.png);
+    background-repeat: no-repeat;
+    width: 360px;
+    margin-left: 240px;
+    height: 540px;
+    margin-top: 15px;
+    background-color: #ffffff;
+}
+
+.blog_guide_date{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 20px;
+}
+
+.blog_guide_header{
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 20px;
+    width: 300px;
+    font-size: 22px;
+}
+
+.blog_guide_author_img{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 30px;
+}
+
+.blog_career_article{
+    background-image: url(../assets/images/main_blog_career.png);
+    background-repeat: no-repeat;
+    width: 360px;
+    margin-left: 620px;
+    height: 540px;
+    margin-top: -540px;
+    background-color: #ffffff;
+}
+
+.blog_career_header{
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 20px;
+    width: 300px;
+    font-size: 22px;
+}
+
+.blog_career_author_img{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 30px;
+}
+
+.sidebar_articles{
+    margin-left: 1000px;
+    margin-top: -1095px;
+}
+
+.blog_disign_article{
+    width: 360px;
+    height: 540px;
+    background-image: url(../assets/images/aside_blog_design.png);
+    background-repeat: no-repeat;
+    background-color: #ffffff;
+}
+
+.blog_design_date{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 20px;
+}
+
+.blog_design_header{
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 20px;
+    width: 300px;
+    font-size: 22px;
+}
+
+.blog_design_author_img{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 30px;
+}
+
+.photo_course_article{
+    width: 360px;
+    height: 540px;
+    background-image: url(../assets/images/aside_blog_photo_course.png);
+    background-repeat: no-repeat;
+    background-color: #ffffff;
+    margin-top: 15px;
+}
+
+.photo_course_date{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 20px;
+}
+
+.photo_course_header{
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 20px;
+    width: 300px;
+    font-size: 22px;
+}
+
+.photo_course_author_img{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 30px;
+}
+
+.footer_information{
+    margin-top: 80px;
+    margin-left: 240px;
+    height: 160px;
+}
+
+
+.loadind_new_information{
+    color: #99a5b0;
+    margin-left: 440px;
+}
+
+.loading_new_img{
+    
+}
